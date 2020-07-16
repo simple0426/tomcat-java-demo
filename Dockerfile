@@ -1,4 +1,3 @@
-LABEL maintainer www.ctnrs.com
 # stage build
 # 使用as为多阶段构建中的某一阶段命名
 FROM maven:3.6.3-jdk-8 as build
